@@ -15,14 +15,22 @@
 
 <h2 align="center">🏅 Holopin Badges</h2>
 
+<h2 align="center">🏅 Holopin Badges</h2>
+
 <p align="center">
-  <a href="https://holopin.io/@nanzz94">
-    <img src="https://holopin.me/nanzz94" width="48%" alt="Holopin Badges"/>
-  </a>
-  <a href="https://holopin.io/@nandini24">
-    <img src="https://holopin.me/nandini24" width="48%" alt="Holopin Badges"/>
-  </a>
+  <!-- Account 1 badges -->
+  <img src="https://holopin.io/api/user/nanzz94/badges/0" height="90"/>
+  <img src="https://holopin.io/api/user/nanzz94/badges/1" height="90"/>
+  <img src="https://holopin.io/api/user/nanzz94/badges/2" height="90"/>
+  <img src="https://holopin.io/api/user/nanzz94/badges/3" height="90"/>
+
+  <!-- Account 2 badges -->
+  <img src="https://holopin.io/api/user/nandini24/badges/0" height="90"/>
+  <img src="https://holopin.io/api/user/nandini24/badges/1" height="90"/>
+  <img src="https://holopin.io/api/user/nandini24/badges/2" height="90"/>
+  <img src="https://holopin.io/api/user/nandini24/badges/3" height="90"/>
 </p>
+
 
 
 ## 🏆 GitHub Trophies
